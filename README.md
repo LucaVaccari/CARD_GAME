@@ -1,2 +1,2 @@
-# GIOCO_DI_CARTE
-Un gioco di carte in console C++
+# CARD_GAME
+A very complex card game made in Windows console with C++ language. 
